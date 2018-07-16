@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Lists Lab</title>
+</head>
+<body>
+
+  <!-- Write your HTML in this file -->
+  <!DOCTYPE html>
+   <ol>
+     <li>Cheeseburgers</li>
+     <ul>
+       <li>food</li>
+       </ul>
+     <li>Grilled Cheese</li>
+     <li>Sushi</li>
+   </ol>
+
